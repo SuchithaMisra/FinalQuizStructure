@@ -12,7 +12,7 @@ To run this lab, navigate to FinalQuizStructure --> cd into src folder:
   -     npm run dev
       Runs the app in the development mode.
         
-      Open http://localhost:5173/ to view it in your browser.
+      Open http://localhost:5173/ to view it in your browser. (link will be given when the command is run, may use a different port)
       
       The page will reload when you make changes.
 
